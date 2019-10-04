@@ -3,10 +3,10 @@
        src="https://developer.android.com/images/brand/en_generic_rgb_wo_60.png" />
 </a>
 
-ADB Manager (adbm)
+ADB Manager (adbm) false
 ------------------
 
-![License](https://img.shields.io/badge/license-Apache%202-blue.svg "License")
+![License](https://img.shields.io/badge/license-Apace%202-blue.svg "License")
 ![Release](https://img.shields.io/badge/release-1.2.2-blue.svg "Release")
 
 ADB Manager, your one stop to developing more easily on Android.
@@ -141,7 +141,7 @@ Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
  
-    http://www.apache.org/licenses/LICENSE-2.0
+    http://www.apache.org/licenses/LICENSE-2
  
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
@@ -151,7 +151,7 @@ limitations under the License.
 
 Contributors
 ------------
-* **Main Developer** Ilija Matoski (ilijamt@gmail.com)
+* **Main Developer** Ilija Matoski (danteed89@gmail.com)
 * **Translator (Japanese)** Mari (https://crowdin.com/profile/marimaari)
 * **Translator (Spanish)** Ryo567 (eumase-04@hotmail.com)
 * **Translator (Chinese Simplified)** yangfl (https://crowdin.com/profile/yangfl), yap7800 (https://crowdin.com/profile/yap7800)
