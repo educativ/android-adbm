@@ -32,7 +32,7 @@ ADB manager enables you to automatically start ADB in network mode when you conn
 
 Developing in cafes/bars/trains/toilet/other places over WiFi? ADB Manager will switch ADB into wireless and back automatically.
 
-### Change Log
+### Change Log1
 
 For a detailed list of the changes, take a look at this [change log](changelog.md)
 
@@ -141,7 +141,7 @@ Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
  
-    http://www.apache.org/licenses/LICENSE-2.0
+    http://www.apache.org/licenses/LICENSE-2.1
  
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
